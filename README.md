@@ -16,5 +16,5 @@ Repositories.cs содержит класс для чтения данных с 
 ![Image alt](https://github.com/SoulHowl/Lab4/blob/main/AdventureWorks/photo/Errorpeg.png)
 ЗАПРОС НА ДОБАВЛЕНИЕ НОВОЙ ИНФОРМАЦИИ ОБ ОШИБКАХ ОСУЩЕСТВЛЯЕТСЯ ЧЕРЕЗ ТРАЗАКЦИЮ С ИСПОЛЬЗОВАНИЕМ ХРАНИМЫХ ПРОЦЕДУР.
 ![Image alt](https://github.com/SoulHowl/Lab4/blob/main/AdventureWorks/photo/Errorf1.png)
-
+![Image alt](https://github.com/SoulHowl/Lab4/blob/main/AdventureWorks/photo/Errorf2.png)
 После того,как файл попал в папку ,которая мониторится,в работу вступает уже разработанный из 3 лабы FileManager(производится валидация файла,шифрование,архивирование,перемещение,деархивирование,дешифрование,и дополнительно сохранение архива файла в папке Archive)
