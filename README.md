@@ -19,4 +19,4 @@ Repositories.cs содержит класс для чтения данных с 
 ![Image alt](https://github.com/SoulHowl/Lab4/blob/main/AdventureWorks/photo/Errorf2.png)
 После того,как файл попал в папку ,которая мониторится,в работу вступает уже разработанный из 3 лабы FileManager(производится валидация файла,шифрование,архивирование,перемещение,деархивирование,дешифрование,и дополнительно сохранение архива файла в папке Archive)
  видео работы служб
- [![Watch the video](https://github.com/SoulHowl/Lab4/blob/main/AdventureWorks/photo/43gfdfdf.mp4)
+ ![Watch the video](https://github.com/SoulHowl/Lab4/blob/main/AdventureWorks/photo/43gfdfdf.mp4)
